@@ -1,0 +1,22 @@
+{
+  "name": "nuxt-app",
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "devDependencies": {
+    "@nuxt/devtools": "latest",
+    "@nuxt/ui": "npm:@nuxt/ui-edge@latest",
+    "@tailwindcss/typography": "latest",
+    "@types/node": "latest",
+    "nuxt": "3.6.x"
+  },
+  "dependencies": {
+    "@iconify/json": "latest",
+    "@octokit/rest": "^20.0.2"
+  }
+}

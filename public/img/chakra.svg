@@ -1,0 +1,17 @@
+
+<svg width="257px" height="257px" viewBox="0 0 257 257" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-y2nij_u70i-1">
+            <stop stop-color="#7BCBD4" offset="0%"></stop>
+            <stop stop-color="#29C6B7" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="chakra" fill-rule="nonzero">
+            <g id="编组">
+                <rect id="矩形" fill="url(#linearGradient-y2nij_u70i-1)" x="0" y="0" width="257" height="257" rx="128.5"></rect>
+                <path d="M69.558,133.985 L157.15,46.9959 C158.786,45.3708 161.42,47.3484 160.315,49.3729 L127.714,109.125 C126.986,110.457 127.951,112.083 129.469,112.083 L185.809,112.083 C187.624,112.083 188.5,114.306 187.173,115.545 L88.4452,207.687 C86.675,209.339 84.0401,207.011 85.4613,205.051 L132.197,140.578 C133.155,139.256 132.211,137.404 130.578,137.404 L70.9673,137.404 C69.1822,137.404 68.2914,135.243 69.558,133.985 Z" id="路径" fill="#FFFFFF"></path>
+            </g>
+        </g>
+    </g>
+</svg>
